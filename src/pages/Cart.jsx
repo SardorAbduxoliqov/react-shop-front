@@ -10,7 +10,8 @@ import { useEffect, useState } from "react";
 import { userRequest } from "../requestMethods";
 import { useHistory } from "react-router";
 
-const KEY = "pk_test_51IspusCBAU79yaYIJm8jCvXw245LUWXDUGSU5L3u33idImv2Kac49sPehymcrJlPbiTGItthzGxOVFArmqUEeya2006dPTlv76"
+const KEY =
+  "pk_test_51IspusCBAU79yaYIJm8jCvXw245LUWXDUGSU5L3u33idImv2Kac49sPehymcrJlPbiTGItthzGxOVFArmqUEeya2006dPTlv76";
 
 const Container = styled.div``;
 
@@ -251,8 +252,8 @@ const Cart = () => {
               <SummaryItemPrice>$ {cart.total}</SummaryItemPrice>
             </SummaryItem>
             <StripeCheckout
-              name="Lama Shop"
-              image="https://avatars.githubusercontent.com/u/1486366?v=4"
+              name="Alloma shop"
+              image="https://images.pexels.com/photos/6750260/pexels-photo-6750260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
               billingAddress
               shippingAddress
               description={`Your total is $${cart.total}`}
