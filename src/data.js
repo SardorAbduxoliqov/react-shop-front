@@ -25,20 +25,20 @@ export const sliderItems = [
 export const categories = [
  {
   id: 1,
-  img: "https://images.pexels.com/photos/6618562/pexels-photo-6618562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-  title: "Glasses style",
+  img: "https://images.pexels.com/photos/8350502/pexels-photo-8350502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  title: "Woman store",
   cat: "woman"
  },
  {
   id: 2,
-  img: "https://images.pexels.com/photos/6624333/pexels-photo-6624333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-  title: "Kids style",
+  img: "https://images.pexels.com/photos/8217702/pexels-photo-8217702.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+  title: "Man Store",
   cat: "man"
  },
  {
   id: 3,
-  img: "https://images.pexels.com/photos/1464625/pexels-photo-1464625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-  title: "Shoes style ",
+  img: "https://images.pexels.com/photos/6347879/pexels-photo-6347879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  title: "All products",
   cat: "t-shirt"
  }
 ]
